@@ -10,4 +10,5 @@ See  5110_Menu/edelkrone_v1.2/edelkrone_v1.2.ino  for the main code snippet.
 ![Test Image 2](https://github.com/Mehmet4nil/5110_Menu/blob/master/Images/DSC_0021.JPG)
 ![Test Image 3](https://github.com/Mehmet4nil/5110_Menu/blob/master/Images/DSC_0024.JPG)
 ![Test Image 4](https://github.com/Mehmet4nil/5110_Menu/blob/master/Images/DSC_0027.JPG)
+![Test Image 5](https://github.com/Mehmet4nil/5110_Menu/blob/master/Images/5110_schema.PNG)
 
